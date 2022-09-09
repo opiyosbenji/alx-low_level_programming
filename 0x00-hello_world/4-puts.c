@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Decsription: 'uses the function puts'
+ * Description: 'use puts'
  *
  * Return: Always 0 (Success)
  */
