@@ -6,4 +6,6 @@ git add .
 
 git commit -m "Enter commit message:"
 
+commit
+
 git push
