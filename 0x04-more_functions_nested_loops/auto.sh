@@ -2,10 +2,10 @@
 
 git add .
 
-# Read the user input.
+echo -e "\nEnter the commit message";
+read commit_message;
+echo;
 
-git commit -m "Enter commit message:"
-
-commit
+git commit -m "$commit_message";
 
 git push
