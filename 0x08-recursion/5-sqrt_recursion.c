@@ -17,9 +17,7 @@ int sqrt_check(int g, int c)
 
 /**
 * _sqrt_recursion - Returns the natural square of a number
-*
 * @n: integer to find sqrt of
-*
 * Return: Natural square root or -1
 */
 
